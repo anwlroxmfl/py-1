@@ -1,4 +1,4 @@
-class BurgerStore:
+class BurgerStore: 
     def __init__(self,name,menu):
         self.name = name
         self.menu = menu

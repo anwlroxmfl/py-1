@@ -4,7 +4,7 @@ print("예제 3-1")
 dic = {'name' : 'kim',
        'phone' : '010-1234-5678',
        'brith' : '2007-05-02'}
-
+ 
 print (f"dic.values() : {dic.values()}")
 print (f"dic.values() : {dic.items()}")
 

@@ -1,4 +1,4 @@
-import random
+import random 
 import time
 
 # 1. 데코레이터: 연습 시간 측정

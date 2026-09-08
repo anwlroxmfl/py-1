@@ -1,5 +1,5 @@
 import time
-class Smartphone:
+class Smartphone: 
     def __init__(self,model,battery,max_battery, power_on):
         self.model = model
         self.battery = battery

@@ -2,7 +2,7 @@ print("9012번")
 
 a = int(input())
 
-for _ in range(a):
+for _ in range(a): 
     b = str(input())
     count = 0
 
